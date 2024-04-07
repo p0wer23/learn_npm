@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "punith_k",
+	"license": "UNLICENSED",
 	"keywords": ["freecodecamp", "npm", "package.json", "Back End Development"],
 	"description": "learn backend dev",
 	"dependencies": {
