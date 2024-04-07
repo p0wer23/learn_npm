@@ -1,9 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.0",
+	"description": "learn backend dev",
 	"author": "punith_k",
 	"license": "UNLICENSED",
 	"keywords": ["freecodecamp", "npm", "package.json", "Back End Development"],
-	"description": "learn backend dev",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
